@@ -1,0 +1,33 @@
+/* src/pages/MainPage.css */
+
+.main-page {
+    background-image: url('../assets/background-image.jpg'); /* Update path as needed */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Change text color for contrast */
+  }
+  
+  h1 {
+    font-size: 3rem; /* Large font size for the main heading */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow for better visibility */
+  }
+  
+  .lead {
+    font-size: 1.5rem; /* Larger font for the lead paragraph */
+    margin-bottom: 2rem; /* Space between paragraph and buttons */
+  }
+  
+  .button-container {
+    margin-top: 2rem; /* Space above buttons */
+  }
+  
+  .btn {
+    padding: 10px 20px; /* Padding for buttons */
+    font-size: 1.2rem; /* Larger font for buttons */
+  }
+  

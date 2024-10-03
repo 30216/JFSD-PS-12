@@ -1,0 +1,13 @@
+/* src/pages/payment/PaymentForm.css */
+.payment-form {
+    margin: 20px auto;
+    max-width: 500px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.form-check {
+    margin: 10px 0;
+}
